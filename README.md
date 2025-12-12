@@ -1,13 +1,20 @@
-# Situational Gita Article Generator
+# Situational Gita Article Generator & Book Creator
 
 > Transform ancient Gita wisdom into unique, modern articles with AI-powered variety
+>
+> **Now with bestseller book strategy included!**
 
 An intelligent system that generates empathetic articles about Bhagavad Gita teachings for modern life. Each article uses a different narrative structure from a library of 12 storytelling frameworks, ensuring every piece feels fresh and engaging.
 
+Perfect for creating individual articles OR compiling into a complete book.
+
 ## ✨ Key Features
 
-- **60 Life Themes**: Anger, Depression, Loneliness, Fear, Ambition, and 55 more
+- **110 Life Situations**: Complete coverage from the Situational Gita book
+  - 62 general life themes (Anger, Depression, Loneliness, etc.)
+  - 48 chapter-specific spiritual topics (Liberation, The three gunas, etc.)
 - **12 Narrative Strategies**: Each article uses a different storytelling approach
+- **Book-Ready Output**: Optimized for bestseller book compilation
 - **Intelligent Matching**: Themes automatically paired with suitable strategies
 - **Style Compliance**: Follows Light of Dharma writing guidelines
 - **Variation System**: 6,000+ possible combinations prevent repetitive writing
@@ -210,6 +217,8 @@ No two articles feel the same. Readers stay engaged.
 - **COMPLETE_GUIDE.md** - Everything explained in detail
 - **SYSTEM_EXPLANATION.md** - How it all works
 - **WRITING_STYLE_GUIDE.md** - Style rules followed
+- **BOOK_STRATEGY.md** - Complete bestseller book plan ⭐ NEW
+- **ALL_TOPICS.md** - All 110 situations organized
 
 ## 🆘 Troubleshooting
 
@@ -234,12 +243,24 @@ pip3 install anthropic
 
 ## 📊 Stats
 
-- **Themes**: 60 life situations
+- **Situations**: 110 total (62 themes + 48 chapter topics)
 - **Strategies**: 12 narrative frameworks
 - **Variations**: 6,000+ possible combinations
-- **Output**: 2,000-3,500 words per article
+- **Output**: 1,800-2,200 words per article (book-optimized)
 - **Time**: 1-2 minutes per article
 - **Quality**: High (style guide enforced)
+
+## 📚 Book Creation
+
+**NEW: Complete bestseller book strategy included!**
+
+Create "The Situational Gita: Ancient Wisdom for Your Toughest Moments"
+
+- **60 curated topics** for optimal book (from 110 available)
+- **4-part structure** (380-400 pages)
+- **120,000 words total**
+- **Bestseller-optimized** format and length
+- See `BOOK_STRATEGY.md` for complete publishing plan
 
 ## 🚀 Next Steps
 
