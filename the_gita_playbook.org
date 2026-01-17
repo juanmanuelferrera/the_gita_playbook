@@ -2,7 +2,7 @@
 #+SUBTITLE: Ancient Solutions to Modern Day Struggles
 #+Author: Br. Jagannatha Mishra Dasa
 #+DATE: First Edition, 2026
-
+change 1
 # LaTeX Configuration for 6x9 inch book format
 #+LATEX_CLASS: book
 #+LATEX_CLASS_OPTIONS: [11pt,twoside]
