@@ -6,15 +6,15 @@ Sanjay stands at the whiteboard in the conference room, marker in hand, facing f
 
 The product launch is in three weeks. They're nowhere near ready.
 
-"Okay," he says, trying to keep his voice steady. "Let's go through the blockers one more time. Design team—where are we on the UI mockups?"
+"Okay," he says, trying to keep his voice steady. "Let's go through the blockers one more time. Design team -- where are we on the UI mockups?"
 
 Melissa, the lead designer, sighs. "Still waiting on requirements from product. I sent three emails last week. No response."
 
 Marcus Webb, the product manager, looks up sharply. "I responded to two of them. You're the one who keeps changing the design without consulting anyone."
 
-"Because your requirements were vague! I had to make assumptions—"
+"Because your requirements were vague! I had to make assumptions --"
 
-"Your assumptions broke the entire user flow—"
+"Your assumptions broke the entire user flow --"
 
 "Stop." Sanjay raises a hand. The room falls silent, but the tension remains, thick and suffocating.
 
@@ -32,7 +32,7 @@ Sanjay closes his eyes. This is going to be a long three weeks.
 
 ## The Illusion of Individual Victory
 
-Teams are supposed to multiply capability. One person can only do so much. But five people working together—aligned, coordinated, trusting—can accomplish what seems impossible alone.
+Teams are supposed to multiply capability. One person can only do so much. But five people working together -- aligned, coordinated, trusting -- can accomplish what seems impossible alone.
 
 That's the theory.
 
@@ -40,7 +40,7 @@ The reality is messier.
 
 Because teams are made of individuals. And individuals have egos, insecurities, agendas. They compete for credit, deflect blame, protect territory.
 
-And when trust breaks down—when team members stop seeing each other as allies and start seeing each other as obstacles—the team becomes less than the sum of its parts.
+And when trust breaks down -- when team members stop seeing each other as allies and start seeing each other as obstacles -- the team becomes less than the sum of its parts.
 
 Sanjay's team isn't dysfunctional because people are incompetent. They're talented. Skilled. Individually brilliant.
 
@@ -50,53 +50,57 @@ The design team thinks they're right. The product team thinks they're right. Eng
 
 And they're all so focused on being right, on protecting their turf, that they've forgotten what they're trying to build together.
 
-This is the trap: When you prioritize your individual correctness over the team's collective success, you doom both.
+## The Gita Speaks: One Goal, Many Duties
 
-Because no one wins alone. Not really.
+Arjuna stands on the battlefield confused, paralyzed by the complexity of what's being asked of him. He turns to Krishna and admits his helplessness:
 
-## The Gītā Speaks: Unity in Action
-
-The Bhagavad-gītā opens on a battlefield. And not just any army—a divided one.
-
-On one side, the Pāṇḍavas. On the other, the Kauravas. But these aren't foreign enemies—they're cousins. Family. People who should be united but are tearing each other apart.
-
-Sound familiar?
-
-Arjuna looks at this fractured situation and breaks down. "How can we fight our own relatives?" he asks.
-
-And Kṛṣṇa's response cuts through the dysfunction:
-
-> ``Perform your duty equipoised, O Arjuna, abandoning all attachment to success or failure. Such equanimity is called yoga.''
+> "Now I am confused about my duty and have lost all composure because of weakness."
 >
-> --- Bhagavad-gītā 2.48
+> -- Bhagavad-gita 2.7
 
-Notice what Kṛṣṇa focuses on: Not who's right or wrong. Not who deserves credit or blame.
+Sanjay knows this feeling. The team is fractured. The deadline is looming. And he has lost all composure. But Krishna's response to Arjuna's confusion is not sympathy -- it is clarity about purpose:
 
-But /duty/. Function. Your actual role in service to the whole.
-
-When team members are attached to being right, to individual success, to protecting their ego—they lose sight of the purpose.
-
-But when they focus on their duty—their function in service to the shared goal—alignment becomes possible.
-
-Melissa's duty isn't to be right about design. It's to create an interface that serves users.
-
-Marcus's duty isn't to win arguments about requirements. It's to articulate what the product needs to accomplish.
-
-Sanjay's duty isn't to manage personalities. It's to create the conditions for the team to succeed together.
-
-And here's the radical part:
-
-> ``One who is not envious but who is a kind friend to all living entities, who does not think himself a proprietor, who is free from false ego and equal both in happiness and distress, who is always satisfied and engaged in devotional service with determination—such a person is very dear to Me.''
+> "Those who are on this path are very determined, and their goal is one."
 >
-> --- Bhagavad-gītā 12.13-14
+> -- Bhagavad-gita 2.41
 
-The qualities of a good team member: Not envious. Not possessive. Free from false ego. Equal in success and failure.
+One goal. Not five individual goals. Not Melissa's goal, Marcus's goal, Priya's goal. One shared purpose that every member serves through their particular duty.
 
-That's not soft skills. That's the foundation of effective collaboration.
+When a team forgets the shared goal, each person defaults to their private one: being right, being recognized, being safe. That is how teams fracture.
 
-Because teams fail when egos collide. They succeed when individuals surrender their need to be right in service to something larger.
+And Krishna says something even more pointed about how leaders and skilled people must behave:
 
-## Living the Teaching: From Blame to Function
+> "Whatever action is performed by a great man, common men follow in his footsteps."
+>
+> -- Bhagavad-gita 3.21
+
+If Sanjay blames, the team will blame. If he defends his ego, they will defend theirs. The leader's behavior sets the pattern. But this also applies to every senior member: Melissa's defensiveness gives permission for everyone to be defensive. Marcus's vagueness gives permission for everyone to be vague.
+
+And then this -- a caution for anyone tempted to force clarity on others before finding it themselves:
+
+> "Let not the wise disrupt the minds of the ignorant who are attached to fruitive action."
+>
+> -- Bhagavad-gita 3.26
+
+Sanjay cannot lecture his team into alignment. He cannot shame them into cooperation. He must model the shift himself -- from blame to function, from ego to duty -- and trust that the example will do more than any mandate.
+
+And when that shift happens, when ego surrenders to shared purpose, the result is liberation:
+
+> "A man engaged in devotional service rids himself of both good and bad actions even in this life. Therefore strive for yoga, O Arjuna, which is the art of all work."
+>
+> -- Bhagavad-gita 2.50
+
+Yoga -- the art of all work. Not individual achievement. Not personal credit. The art of working together in service to something larger than any one person's ego.
+
+At the end of the Gita, after everything Krishna has taught, Arjuna's response is simple and complete:
+
+> "Arjuna said: My dear Krishna, O You Infallible, now my illusion has dissipated. By Your mercy I have recovered my memory."
+>
+> -- Bhagavad-gita 18.73
+
+The illusion that dissipates is the illusion of separateness. Arjuna remembers who he is and what he is meant to do -- not alone, but in relationship. That is what every broken team needs: not new processes, but recovered memory. The memory that they are on the same side.
+
+## Living the Teaching
 
 So what does Sanjay do?
 
@@ -106,35 +110,23 @@ No.
 
 He needs to shift the team from blame to function. From "who's right" to "what works."
 
-Here's the practice:
-
 ### Practice Box
 
 **The Team Dharma Practice**
 
 **1. Reframe from blame to function.**
-Stop asking: ``Who caused this problem?'' Start asking: ``What function needs to be performed to solve this?'' Focus on roles, not righteousness.
+Stop asking: "Who caused this problem?" Start asking: "What function needs to be performed to solve this?" Focus on roles, not righteousness.
 
-**2. Clarify actual duties.**
-Each person's /dharma/ on the team is their function—what they contribute to the whole. When everyone is clear on their duty (and respects others'), overlap and conflict decrease.
+**2. Model the shift yourself.**
+Don't ask the team to do what you won't. Drop your own defensiveness first. Admit your own failures. The leader goes first -- and so does anyone wise enough to lead by example.
 
-**3. Release attachment to individual credit.**
-The team wins or loses together. Your ego's need for recognition is less important than the team's collective success. Can you accept that?
+**3. Return to the one goal.**
+Every meeting, every conversation, bring it back: What are we building together? Not "what's my piece" but "what's our purpose." One goal. Many duties.
 
-**4. Practice equanimity in success and failure.**
-When things go well, share credit. When things go badly, focus on solutions, not blame. Steadiness builds trust.
+**4. Release attachment to individual credit.**
+The team wins or loses together. Your ego's need for recognition is less important than the team's collective success.
 
-This is hard. Brutally hard.
-
-Because egos don't surrender easily. And when you've been blamed unfairly, the instinct is to defend yourself, to prove you were right.
-
-But that instinct—however justified—destroys teams.
-
-The Gītā offers a different path: Focus on your duty. Perform it skillfully. Release your attachment to being recognized for it.
-
-Serve the whole. Not your ego.
-
-## The Way Forward: The Reset
+## The Way Forward
 
 Sanjay calls another meeting. But this time, he changes the format.
 
@@ -160,7 +152,7 @@ Silence. Then Melissa says, voice softer now, "I know I've been defensive. I jus
 
 Priya adds, "And I've been silently resenting both of you instead of speaking up when things didn't make technical sense. That's on me."
 
-Sanjay feels the room shift. Not fixed—there's still work to do. But the blame cycle is breaking.
+Sanjay feels the room shift. Not fixed -- there's still work to do. But the blame cycle is breaking.
 
 "Okay," he says. "New approach. Every meeting, we start with: What's my duty today? And how can I support others in theirs? Not: Who screwed up? But: What needs to happen next?"
 
@@ -193,8 +185,6 @@ When "me" becomes "we."
 - On your team, are you focused on your duty or on being right? How does that focus affect the team's ability to work together?
 - Where are you prioritizing individual credit over collective success? What would change if you released attachment to recognition?
 - When your team faces conflict, do you seek to blame or to solve? Can you shift from "who caused this" to "what needs to happen next"?
-
-% Chapter 29: Leader
 
 ---
 

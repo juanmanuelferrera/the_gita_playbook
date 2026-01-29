@@ -32,9 +32,9 @@ Inside, their father looks smaller than Marcus remembers. Pale. Fragile. The mac
 
 They approach the bed. Stand on opposite sides.
 
-"I don't have long," their father says. "So I'm going to say this once. Whatever happened between you two—fix it. Life's too short for this."
+"I don't have long," their father says. "So I'm going to say this once. Whatever happened between you two -- fix it. Life's too short for this."
 
-Marcus feels the familiar defensiveness rising. *I'm not the one who stopped calling. I'm not the one who refused help. I'm not—*
+Marcus feels the familiar defensiveness rising. *I'm not the one who stopped calling. I'm not the one who refused help. I'm not --*
 
 But their father interrupts the thought. "Marcus. David. You're brothers. That means something."
 
@@ -60,45 +60,51 @@ But beneath that? Envy. Because Marcus got the approval. The pride. The validati
 
 They're both trapped. In comparison. In old roles assigned decades ago. In the belief that love is a competition and only one brother can win.
 
-The Gītā speaks to this—not about siblings specifically, but about the illusion of separation.
+The Gita speaks directly to this -- because it opens with brothers at war.
 
-## The Gītā Speaks: Beyond False Divisions
+## The Gita Speaks: When Brothers Face Each Other
 
-The entire Bhagavad-gītā takes place because of a rivalry between cousins.
+The entire Bhagavad-gita begins with a question about sons and brothers:
 
-The Pāṇḍavas and the Kauravas. Brothers by blood. Enemies by choice.
-
-And Arjuna—standing between them—represents the pain of that division. The agony of family turned against family.
-
-"How can I fight my own kinsmen?" he asks Kṛṣṇa.
-
-And Kṛṣṇa's answer cuts through the illusion:
-
-> ``For the soul there is never birth nor death. Nor, having once been, does he ever cease to be. He is unborn, eternal, ever-existing, undying and primordial.''
+> "Dhrtarashtra said: O Sanjaya, after assembling in the place of pilgrimage at Kurukshetra, what did my sons and the sons of Pandu do, being desirous to fight?"
 >
-> --- Bhagavad-gītā 2.20
+> -- Bhagavad-gita 1.1
 
-What does this have to do with Marcus and David?
+A blind king asks about his sons and their cousins -- brothers in all but name -- gathered not for a festival but for war. The very first verse of the Gita is about family division. About brothers who should be united but are preparing to destroy each other.
 
-Everything.
+This is Marcus and David. Not on a battlefield, but in a hospital room. The weapons are silence and resentment instead of arrows. But the division is the same.
 
-Kṛṣṇa is saying: The roles you're playing—successful brother, struggling brother—are temporary. Illusions. The eternal soul within each of you is beyond comparison, beyond competition, beyond the stories your family told about who you're supposed to be.
+And Arjuna, standing between the two armies, sees the horror of it clearly:
 
-Marcus isn't "the successful one." David isn't "the creative one." Those are masks. Roles. And clinging to them keeps you separated.
-
-The truth? You're souls. Brothers. Connected at a level deeper than achievement or approval.
-
-And then Kṛṣṇa says this:
-
-> ``One who is not envious but who is a kind friend to all living entities, who does not think himself a proprietor, who is free from false ego and equal both in happiness and distress, who is always satisfied... such a person is very dear to Me.''
+> "Sin will overcome us if we slay such aggressors. Therefore it is not proper for us to kill the sons of Dhrtarashtra and our friends."
 >
-> --- Bhagavad-gītā 12.13-14
+> -- Bhagavad-gita 1.36
 
-"Not envious." "Free from false ego."
+Arjuna refuses to fight his own family. Not out of cowardice -- out of conscience. He recognizes that destroying your brother, even when you believe you're right, destroys something in yourself.
 
-That's the path out. Not through winning the rivalry. But through releasing it.
+Marcus has been destroying David for years. Not with weapons -- with judgment. With the quiet superiority of the successful sibling. And David has been destroying Marcus in return -- with withdrawal, with the silent accusation that Marcus sold his soul for a career.
 
-## Living the Teaching: Releasing the Roles
+They've been at war without admitting it.
+
+> "O Janardana, although these men, overtaken by greed, see no fault in killing one's family or quarreling with friends, why should we, with knowledge of the sin, engage in these acts?"
+>
+> -- Bhagavad-gita 1.37-38
+
+"Why should we engage in these acts?" That is the question. The Kauravas were blinded by greed. But Marcus and David are not blind. They know the rivalry is pointless. They know comparison has poisoned them both.
+
+So why do they keep doing it?
+
+Because the roles feel safer than the vulnerability of actually seeing each other.
+
+But the Gita also offers a way forward -- through duty that lifts everyone:
+
+> "Whatever action is performed by a great man, common men follow in his footsteps."
+>
+> -- Bhagavad-gita 3.21
+
+One brother has to go first. One has to break the pattern. And whoever does will set the example -- not just for the other, but for every relationship trapped in the same silent war.
+
+## Living the Teaching
 
 So what do Marcus and David do?
 
@@ -106,31 +112,25 @@ Pretend the rift doesn't exist? Force a reconciliation neither of them feels rea
 
 No.
 
-The Gītā doesn't teach fake harmony. It teaches honest recognition.
-
-Here's the practice:
+The Gita doesn't teach fake harmony. It teaches honest recognition.
 
 ### Practice Box
 
 **The Brother Reconciliation Practice**
 
 **1. Name the old story honestly.**
-What role did you play? What role did they play? Not to blame, but to see clearly: ``I was cast as the successful one. You were cast as the struggling one. And we both suffered from those roles.''
+What role did you play? What role did they play? Not to blame, but to see clearly: "I was cast as the successful one. You were cast as the struggling one. And we both suffered from those roles."
 
-**2. Acknowledge the pain—yours and theirs.**
+**2. Acknowledge the pain -- yours and theirs.**
 You both carry wounds. You both missed out. You both lost something in the comparison. Can you see that without defending your position?
 
 **3. Release the need to win.**
 There's no prize for being the better brother. No victory in proving your worth. The competition was always an illusion. Can you let it go?
 
-**4. See the soul, not the story.**
-Your brother isn't his successes or failures. He's an eternal being, walking his own path. Can you honor that without needing him to be different?
+**4. Be the one who goes first.**
+Someone has to break the silence. Someone has to set the example. The Gita says common men follow the actions of the great. Be great enough to go first.
 
-This is hard. Because the roles feel real. The wounds are real. The years of separation created distance that can't be bridged in a moment.
-
-But the Gītā teaches: Start with recognition. See the truth. The rest will follow.
-
-## The Way Forward: The Conversation
+## The Way Forward
 
 After their father falls asleep, Marcus and David sit in the hospital cafeteria. Coffee in Styrofoam cups. Still not speaking.
 
@@ -152,7 +152,7 @@ David is quiet for a moment. Then: "You were successful."
 
 "For being free. You got to do what you wanted. Follow your passion. I had to be the one who did everything right. Carried all the expectations."
 
-David laughs—bitter. "You think I was free? I spent my entire life trying to get Dad to look at me the way he looked at you. And I never could. No matter what I did."
+David laughs -- bitter. "You think I was free? I spent my entire life trying to get Dad to look at me the way he looked at you. And I never could. No matter what I did."
 
 Marcus feels something crack open. "I didn't know that."
 
@@ -191,10 +191,8 @@ They just had to stop fighting over it and start receiving it.
 ## Reflection
 
 - What role did you play in your family? What role did your sibling(s) play? How have those roles trapped you both?
-- Where are you still competing with your brother or sister—for validation, for success, for being "the good one"? What would it mean to release that competition?
-- Can you see your sibling as a soul on their own path rather than as a character in your story? What becomes possible when you stop needing them to be different?
-
-% Chapter 27: Friends
+- Where are you still competing with your brother or sister -- for validation, for success, for being "the good one"? What would it mean to release that competition?
+- Can you be the one who goes first -- the one who breaks the silence, names the pain honestly, and sets a new example?
 
 ---
 
