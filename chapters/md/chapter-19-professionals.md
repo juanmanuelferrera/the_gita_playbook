@@ -4,125 +4,115 @@
 
 Dr. Hassan stares at the lab results.
 
-They're wrong. Not wildly wrong. Not obviously fraudulent. But wrong enough that he knows: if he reports them as is, the study will show efficacy. The drug will move forward. The company will be happy. His team will be celebrated. His career will advance.
+They are wrong. Not wildly wrong. Not obviously fraudulent. But wrong enough that he knows: if he reports them as they stand, the study will show efficacy. The drug will move forward. The company will celebrate. His career will advance.
 
-And patients will get a medication that's slightly less effective than the data suggests.
+And patients will receive a medication slightly less effective than the data suggests.
 
-Not dangerous. Just... overstated.
+Not dangerous. Just overstated.
 
-He's been in pharmaceuticals for fifteen years. He knows how this works. Everyone massages data a little. Everyone puts the best spin on results. Everyone knows that perfect science is theoretical—in practice, you work with what you have and make judgment calls.
+He has been in pharmaceuticals for fifteen years. He knows the rhythms. Everyone massages data a little. Everyone puts the best face on results. Everyone knows that perfect science is theoretical -- in practice, you work with what you have and make judgment calls.
 
 This is a judgment call.
 
-He could rerun the tests. Triple-check the methodology. Delay the timeline. Risk the project getting killed. Risk his reputation as someone who delivers results.
+He could rerun the tests. Triple-check the methodology. Delay the timeline. Risk the project getting killed. Risk his reputation as someone who delivers.
 
-Or he could sign off. Move forward. Trust that the slight overstatement won't actually harm anyone. Trust that the drug is still beneficial, even if not quite as beneficial as these results suggest.
+Or he could sign off. Move forward. Trust that the slight overstatement will not actually harm anyone. Trust that the drug is still beneficial, even if not quite as beneficial as these numbers suggest.
 
-No one would know. The data isn't falsified—it's just... optimistically interpreted.
+No one would know. The data is not falsified -- it is just optimistically interpreted.
 
 His phone buzzes. His project manager: "Hassan, we need your sign-off by EOD. Board presentation is Monday."
 
 He types back: "Working on it."
 
-But he's not working on it. He's sitting in his office, door closed, feeling the weight of fifteen years of professionalism pressing down on one moment:
+But he is not working on it. He is sitting in his office, door closed, feeling the weight of fifteen years of professionalism pressing down on one moment:
 
 What does integrity actually cost? And is he willing to pay it?
 
-## Integrity in the Workplace
+His mind keeps circling. He thinks about Duryodhana -- the prince who stood before war and declared his army invincible, his strategy flawless, his protectors unbeatable. Duryodhana was not stupid. He was a professional. He assessed his resources and saw only strength.
+
+But he was wrong.
+
+And the cost of that overconfidence was everything.
+
+Hassan stares at his screen. The numbers glow. They look strong. They look like victory.
+
+But he knows something is off. And ignoring what you know -- that is the first step toward professional ruin.
+
+## The Professional's Dilemma
 
 Professionalism is supposed to mean competence, reliability, excellence.
 
-But in practice, it often means something else: going along. Not rocking the boat. Delivering what's expected. Prioritizing the organization's interests over your personal qualms.
+But in practice, it often means something else: going along. Not rocking the boat. Delivering what is expected. Prioritizing the organization's interests over your own clarity.
 
-And most of the time, that's fine. You're paid to contribute to the organization's goals. That's the deal.
+And most of the time, that arrangement works. You contribute. They compensate. The system functions.
 
-But sometimes—not often, but sometimes—you face a moment where what's expected conflicts with what's right.
+But sometimes -- not often, but sometimes -- you face a moment where what is expected conflicts with what you know. Not in a dramatic whistle-blowing way. Just: this data is being read too generously. This shortcut saves time but compromises rigor. This claim is technically defensible but misleading.
 
-Not in a dramatic, whistle-blowing way. Not "the company is committing crimes and I must expose them."
-
-Just: this data is being spun too positively. This claim is technically true but misleading. This shortcut saves time but compromises quality. This practice is legal but unethical.
-
-Small compromises. That everyone makes. That you've probably made before.
+Small compromises. The kind everyone makes.
 
 But this time, something stops you.
 
-Maybe it's the magnitude. Maybe it's accumulation—you've compromised enough times that one more feels like crossing a line you can't uncross. Maybe it's just clarity: you can see that this specific choice will cause harm, even if it's hard to measure.
+Maybe it is accumulation. You have bent enough that one more bend feels like breaking. Maybe it is clarity: you can see, with unusual precision, where this particular compromise leads.
 
-And you face the question: What is professionalism actually in service of?
+And you face the real question: What is professionalism actually in service of?
 
-The usual answer: the company, the client, the project, the bottom line.
+The usual answer: the company, the client, the bottom line.
 
-But the Bhagavad-gītā offers a different answer: /dharma/. Your duty. Not to the organization, but to what's actually right.
+The Bhagavad-gita offers a different answer: your duty. Not duty to the organization, but duty to what your role actually exists to do. A scientist exists to report truth. A warrior exists to protect. When those functions get subordinated to institutional convenience, something essential is lost.
 
-And when those conflict—when professional advancement requires ethical compromise—you have to choose.
+And that loss compounds.
 
-The choice isn't always obvious. The consequences aren't always clear. Sometimes speaking up gets you fired. Sometimes it changes nothing. Sometimes it costs you everything and doesn't even solve the problem.
+## The Gita Speaks: The Weight of Duty
 
-But the Gītā's position is clear: integrity isn't negotiable. Not because it always wins. But because losing your integrity costs more than losing your job.
+Arjuna faces his own professional crisis on the battlefield of Kurukshetra. He is a warrior. His training, his lineage, his entire identity says: when called to battle, you fight. But this particular battle demands something he cannot easily give.
 
-You can recover from professional setbacks. You can't recover from becoming someone you don't recognize.
+Before the conflict begins, Duryodhana surveys his forces with the confidence of a man who has never questioned his own assessment:
 
-## The Gītā Speaks: Duty Over Outcome
-
-Arjuna faces an impossible professional dilemma.
-
-He's a warrior. His duty is to fight. His teachers, his tradition, his entire identity says: when called to battle, you fight.
-
-But this particular battle requires killing people he loves. His teachers. His relatives. People who've done him no personal wrong.
-
-So he asks: Can I just... not? Can I refuse this duty because it conflicts with my values?
-
-Kṛṣṇa's answer is nuanced. He doesn't say "blindly follow orders." But he also doesn't say "do whatever feels right to you."
-
-He says: Understand your actual duty. Not the comfortable version. The real one.
-
-> ``It is far better to discharge one's prescribed duties, even though faultily, than another's duties perfectly. Destruction in the course of performing one's own duty is better than engaging in another's duties, for to follow another's path is dangerous.''
+> "Our might is immeasurable and we are perfectly protected by Grandfather Bhishma, whereas the strength of the Pandava, carefully protected by Bhima, is limited."
 >
-> --- Bhagavad-gītā 3.35
+> --- Bhagavad-gita 1.10
 
-Your own duty, done imperfectly, is better than someone else's duty done perfectly.
+This is the voice of professional arrogance -- the conviction that your reading of the situation is the only one that matters. Duryodhana counts resources and sees invincibility. He does not see the moral bankruptcy of his position. He does not see that numbers alone do not determine outcomes.
 
-For Hassan, his duty isn't "make the company happy." It's "report accurate data." That's his actual function as a scientist. That's what his role exists to do.
+Hassan recognizes this voice. It is the voice of the project manager saying "the data is solid." It is the voice that counts revenue projections and ignores the margin of error. It is the professional habit of seeing what you want to see.
 
-When he compromises that duty to achieve outcomes the company wants, he's following "another's path"—prioritizing their goals over his actual function.
+But Krishna speaks to the other side -- to the professional who knows better:
 
-And the Gītā says: that's dangerous. Not just ethically. But to your essential self.
-
-Kṛṣṇa continues:
-
-> ``One who restrains the senses of action but whose mind dwells on sense objects certainly deludes himself and is called a pretender.''
+> "Considering your specific duty as a kshatriya, you should know that there is no better occupation for you than to fight based on religious principles; so, you have no reason to hesitate."
 >
-> --- Bhagavad-gītā 3.6
+> --- Bhagavad-gita 2.31
 
-If you act like you have integrity but internally you're compromising, you're a pretender.
+Your duty is your duty. Not the convenient version. The real one.
 
-This is the trap of professionalism: you can perform the appearance of ethics while actually serving whatever gets rewarded. You talk about values but act based on outcomes.
+For a warrior, that means fighting -- not for personal gain, but on principle. For a scientist, it means reporting data accurately -- not for career advancement, but because that is the function the role exists to serve.
 
-True professionalism means: doing your actual duty, even when it costs you.
+And when that duty aligns with the moment, it becomes not a burden but a privilege:
 
-One more verse:
-
-> ``Do thou fight for the sake of fighting, without considering happiness or distress, loss or gain, victory or defeat—and by so doing you shall never incur sin.''
+> "Blessed are the kshatriyas, O Partha, who are presented with such opportunities for battle without seeking them, opening the doors to celestial planets."
 >
-> --- Bhagavad-gītā 2.38
+> --- Bhagavad-gita 2.32
 
-Act without attachment to whether it benefits you.
+The moment of professional crisis -- when integrity is tested -- is not a punishment. It is an opportunity. The chance to prove that your professionalism means something beyond compliance.
 
-For Hassan: report the data accurately, regardless of whether it kills the project, derails your career, or makes anyone happy.
+Krishna then offers a deeper insight, one that cuts through the noise of institutional politics:
 
-That's your duty. Do it. Let go of controlling what happens after.
+> "Just as a small well can fulfill all the purposes served by a large reservoir of water immediately, similarly, one who understands the purpose behind the Vedas can fulfill all the purposes of the Vedas."
+>
+> --- Bhagavad-gita 2.46
 
-## Living the Teaching: The Cost of Integrity
+You do not need every answer. You do not need the full reservoir of corporate approval, institutional backing, guaranteed outcomes. A small well -- clear understanding of your actual purpose -- is enough. If Hassan understands that his function is accurate reporting, that single clarity fulfills everything his profession demands of him.
+
+## Living the Teaching
 
 Hassan makes his decision.
 
-He emails his project manager: "I need to delay sign-off. Found some anomalies in the data that need investigation."
+He emails his project manager: "I need to delay sign-off. Found anomalies in the data that need investigation."
 
-The response comes within minutes: "Hassan, we don't have time for this. The data is solid. You're overthinking."
+The response arrives within minutes: "Hassan, we don't have time for this. The data is solid. You're overthinking."
 
 He replies: "I can't sign off on results I'm not confident in. Give me three days."
 
-His phone rings. It's his manager. "What's going on? This isn't like you. The board is expecting this Monday."
+His phone rings. His manager. "What's going on? The board is expecting this Monday."
 
 Hassan takes a breath. "The efficacy numbers are inflated. I need to rerun the analysis with corrected methodology."
 
@@ -130,133 +120,79 @@ Hassan takes a breath. "The efficacy numbers are inflated. I need to rerun the a
 
 "Maybe ten percent."
 
-"Ten percent? That's margin of error. Hassan, you're going to torpedo a multi-million dollar project over ten percent?"
+"Ten percent? That's margin of error. You're going to torpedo a multi-million dollar project over ten percent?"
 
 "I'm going to report accurate data. That's my job."
 
-Silence.
-
-Then: "Fine. Three days. But if this delays the timeline, it's on you."
+Silence. Then: "Fine. Three days. But if this delays the timeline, it's on you."
 
 Hassan spends the next seventy-two hours redoing the analysis. Properly. Thoroughly. Without the optimistic assumptions.
 
-The corrected results show the drug is effective. Just not as dramatically effective as the original report suggested.
+The corrected results show the drug is effective. Just not as dramatically as the original report claimed.
 
 He writes it up. Submits it. Waits.
 
-Monday morning, his manager calls him in.
+Monday morning, the board rejects it. They want the original numbers.
 
-"The board rejected it. They want the original numbers. They think you're being too conservative."
+Hassan documents his objection in writing. He will not sign off on inflated data.
 
-Hassan feels his stomach drop. "The original numbers are wrong."
+He is removed from the project. Reassigned. His next review reads "satisfactory" instead of "exceeds expectations."
 
-"They're within acceptable variance."
-
-"They're misleading."
-
-"They're what we need to move forward."
-
-And there it is. The actual choice.
-
-He can fight this. Escalate. Risk his position. Maybe blow up his career over what everyone else thinks is a minor technicality.
-
-Or he can let it go. Accept that he did his part. File his objection and move on.
-
-He thinks about the Gītā: /Do your duty without attachment to outcomes./
-
-His duty is clear: report accurately. He did that. The fact that others chose to ignore it—that's not his responsibility.
-
-But accepting their decision feels like complicity.
-
-He makes his choice.
-
-"I'm documenting my objection in writing. If the company moves forward with the inflated data, that's their decision. But I won't sign off on it."
-
-His manager stares at him. "You're really going to do this?"
-
-"Yes."
-
-"You know this could impact your career here."
-
-"I know."
-
-And it does. He's removed from the project. Reassigned to a less prestigious team. His next performance review is "satisfactory" instead of "exceeds expectations."
-
-But something unexpected happens:
+But something unexpected happens.
 
 He sleeps at night.
 
-No guilt. No compromise eating at him. No sense that he betrayed his actual function for the sake of professional advancement.
-
-He kept his integrity. Even though it cost him.
-
-And that, it turns out, is worth more than the promotion he didn't get.
-
 ### Practice Box
 
-**The Practice of Professional Integrity**
+**The Practice of Professional Clarity**
 
-1. **Know your actual duty.** What is your role actually for? Not what makes the company happy. What function does your position serve? A scientist reports accurate data. A lawyer represents clients within the law. An engineer ensures safety. Know your real duty.
+1. **Know the purpose of your role.** Not what makes the organization happy -- what function your position actually serves. A scientist reports accurate data. An engineer ensures safety. A physician protects health. Know your well, even if you cannot access the reservoir.
 
-2. **Identify the compromise.** When is professionalism asking you to violate your actual duty? Name it clearly. ``I'm being asked to overstate results.'' ``I'm being asked to ignore this risk.'' ``I'm being asked to lie.''
+2. **Refuse the Duryodhana voice.** When the institutional reflex says "our position is strong, don't question it," recognize that voice for what it is: overconfidence masquerading as professionalism. Question the numbers. Question the spin.
 
-3. **Do your duty without attachment.** Report accurately. Speak honestly. Refuse to compromise your function—even if it costs you. Your job is to do your duty, not to guarantee outcomes.
+3. **Treat the crisis as opportunity.** The moment your integrity is tested is not a disaster. It is the door the Gita describes -- the chance to demonstrate that your duty is real, not performative.
 
-4. **Document your objection.** If you're overruled, make your objection clear. In writing. Create a record that you did your part. Then let go of controlling what others do with it.
+4. **Document and release.** Do your duty. Record your position. Then let go of controlling what others do with it. Your responsibility ends where your function ends.
 
-5. **Accept the cost.** Integrity has consequences. You might lose the promotion, the project, even the job. But you keep your self-respect. And that's not nothing.
-
-Professionalism means doing your actual duty with integrity, regardless of whether it advances your career.
-
-## The Way Forward: When Duty and Career Diverge
+## The Way Forward
 
 Six months later, Hassan gets a call from a competitor.
 
-They've heard about him. About his reputation for rigor. About the project he was removed from—which, it turns out, failed in later trials because the data was overstated.
+They have heard about him. About his reputation for rigor. About the project he was removed from -- which, it turns out, failed in later trials because the data was overstated.
 
 They want to hire him. Not despite his integrity. Because of it.
 
 "We need someone who won't tell us what we want to hear," the hiring manager says. "We need someone who'll tell us the truth."
 
-Hassan takes the job. Better title. Better pay. And most importantly: a culture that actually values the thing he was punished for at his last company.
+Hassan takes the job. Better title. Better pay. And a culture that values the thing he was punished for at his previous company.
 
-But even if this hadn't happened—even if standing up had cost him professionally with no redemption arc—he knows he made the right choice.
+But even if this had not happened -- even if standing up had cost him permanently -- he knows he made the right choice.
 
-Because he learned something crucial:
+Because the Gita reveals something profound about what happens when a professional truly understands the purpose of their work:
 
-You can rebuild a career. You can't rebuild integrity once you've sold it.
+> "One who comprehends this philosophy concerning material nature, the living entity, and the interaction of the modes of nature, is assured of liberation. Such a person will not be born again, regardless of their current position."
+>
+> --- Bhagavad-gita 13.24
 
-Every compromise you make to advance professionally teaches you something: that your principles are negotiable. That outcomes matter more than ethics. That you'll betray your actual duty for reward or to avoid punishment.
+Regardless of their current position. Not "if they are promoted." Not "if the company rewards them." Regardless.
 
-And once you learn that lesson, you become someone who can't be trusted. Not by others—maybe they'll never know. But by yourself.
+Understanding the truth of your situation -- and acting on it -- is its own liberation. You do not need the institution to validate your integrity. You do not need the outcome to justify your choice. The clarity itself is the reward.
 
-You'll always know: when it mattered, you chose advancement over integrity. When your duty conflicted with your interests, you chose your interests.
+Hassan learned this the hard way: You can rebuild a career. You cannot rebuild integrity once you have sold it.
 
-And you have to live with that person.
+Every compromise teaches you that your principles are negotiable. And once you learn that lesson, you become someone you cannot trust.
 
-Hassan chose differently. And yes, it cost him. But it also freed him.
+He chose differently. It cost him. And it freed him.
 
-Freed him from the constant calculation of "What's the minimum integrity I can maintain while maximizing my career?" Freed him from the anxiety of "What if someone finds out?" Freed him from becoming someone he didn't recognize.
+That is what professionalism actually is. Not advancement. Not compliance. Clarity about your duty, and the courage to act on it.
 
-He's a professional. But his professionalism serves his actual duty—not his employer's convenience, not his career advancement, not the outcomes anyone wants from him.
-
-He reports accurate data. He speaks honestly. He refuses compromises that violate his function.
-
-And he sleeps at night.
-
-That's the standard. Not success. Not advancement. Not approval.
-
-But integrity. Doing your actual duty. Regardless of cost.
-
-That's what professionalism actually is.
+Regardless of your current position.
 
 ## Reflection
 
-- What is your actual professional duty—the real function your role serves, not what makes your employer happy?
-- Where are you being asked to compromise that duty? What's the cost of saying no?
-- If you had to choose between career advancement and professional integrity, which would you choose? And can you live with that choice?
-
-% Chapter 20: Laziness
+- What is the actual purpose of your professional role -- the function it exists to serve, stripped of institutional expectations?
+- Where have you heard the Duryodhana voice -- the confident assertion that the position is strong and questioning is unnecessary? What did it cost you to listen?
+- If you knew that acting with integrity would cost you professionally but free you personally, would that be enough?
 
 ---
 

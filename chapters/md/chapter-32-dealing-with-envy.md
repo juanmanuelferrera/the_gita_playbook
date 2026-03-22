@@ -1,10 +1,10 @@
 # Chapter 32: Dealing with Envy
 
-## The Promotion That Wasn't Yours
+## Opening Story
 
 Malik hears about Sophie's promotion from someone else.
 
-Not from Sophie—they haven't spoken in three weeks. Not from their manager. From Karen in accounting, casually mentioning it by the coffee machine.
+Not from Sophie. They have not spoken in three weeks. Not from their manager. From Karen in accounting, casually mentioning it by the coffee machine.
 
 "Oh, you didn't hear? Sophie got the regional director position. Starting next month."
 
@@ -14,175 +14,153 @@ But inside, something twists. Sharp. Acidic.
 
 Because he applied for that position. Interviewed for it. Spent weeks preparing, networking, positioning himself.
 
-And Sophie—who started six months after him, who he trained, who he helped navigate office politics—got it instead.
+And Sophie, who started six months after him, who he trained, who he helped navigate office politics, got it instead.
 
-The rational part of his brain understands. Sophie is talented. Deserving. This isn't a personal attack.
+The rational part of his brain understands. Sophie is talented. Deserving. This is not a personal attack.
 
-But the feeling that rises in his chest isn't rational.
+But the feeling that rises in his chest is not rational.
 
-It's envy. Pure, corrosive envy.
+It is envy. Pure, corrosive envy.
 
-And it doesn't just hurt—it makes him hate himself for feeling it.
+And it does not just hurt. It makes him hate himself for feeling it. Because good people do not envy their friends' success, right? Good people celebrate. Support. Cheer them on.
 
-Because good people don't envy their friends' success, right? Good people celebrate. Support. Cheer them on.
+But Malik cannot. Every time he sees Sophie's name on an email, every time someone congratulates her, he feels it again. That bitter, burning sensation that whispers: It should have been you.
 
-But Malik can't. Every time he sees Sophie's name on an email, every time someone congratulates her, he feels it again. That bitter, burning sensation that whispers: *It should have been you.*
+And worse: She does not deserve it as much as you do.
 
-And worse: *She doesn't deserve it as much as you do.*
+He knows it is poison. But he cannot stop drinking it.
 
-He knows it's poison. But he can't stop drinking it.
-
-## The Poison That Tastes Like Justice
+## Reflective Bridge
 
 Envy is different from jealousy.
 
-Jealousy says: "I want what you have." It's acquisitive. Grasping.
+Jealousy says: "I want what you have." It is acquisitive. Grasping.
 
-Envy says: "You shouldn't have what you have." It's destructive. Resentful.
+Envy says: "You should not have what you have." It is destructive. Resentful.
 
 Jealousy wants to possess. Envy wants to diminish.
 
-And that's why envy is so corrosive. It doesn't motivate you to improve—it motivates you to tear others down. To find their flaws. To minimize their achievements. To secretly hope they fail.
+And that is why envy is so corrosive. It does not motivate you to improve. It motivates you to tear others down. To find their flaws. To minimize their achievements. To secretly hope they fail.
 
-Malik starts doing it without realizing. When colleagues praise Sophie's vision, he thinks: *She got those ideas from me.* When she's celebrated for closing a deal: *I introduced her to that client.* When she's described as a natural leader: *Only because I taught her how to navigate this place.*
+Malik starts doing it without realizing. When colleagues praise Sophie's vision, he thinks: She got those ideas from me. When she closes a deal: I introduced her to that client. When she is described as a natural leader: Only because I taught her how to navigate this place.
 
-He's not lying—there's truth in all of it. But he's using that truth like a weapon. To protect his ego. To justify the burning feeling that won't go away.
+He is not lying. There is truth in all of it. But he is using that truth like a weapon to protect his ego.
 
-Because envy doesn't feel like a character flaw. It feels like justice denied.
+Because envy does not feel like a character flaw. It feels like justice denied.
 
-*I worked harder. I sacrificed more. I deserve it more.*
+I worked harder. I sacrificed more. I deserve it more.
 
-And maybe that's even true. But envy doesn't care about truth. It cares about feeding the wound.
+And maybe that is even true. But envy does not care about truth. It cares about feeding the wound.
 
-The Gītā understands envy. Deeply. Because it destroys from within.
+The Gita understands envy. Deeply. Because it destroys from within.
 
-## The Gītā Speaks: The Self-Consuming Fire
+## The Gita Speaks: The Self-Consuming Fire
 
-Kṛṣṇa doesn't mince words about envy. He calls it a quality of the demoniac nature—those who are bound to their egos, unable to see beyond their own desires.
+Krishna does not mince words about envy. He names it plainly as a source of suffering, one that traps a person in cycles of misery:
 
-Harsh? Maybe. But accurate.
-
-Because envy is fundamentally about ego. About the belief that your worth is measured by comparison. That someone else's gain is your loss.
-
-And the Gītā offers this warning:
-
-> ``Those who are envious and mischievous, who are the lowest among men, are cast by Me into the ocean of material existence, into various demoniac species of life.''
+> "An intelligent person does not take part in the sources of misery, which are due to contact with the material senses. O son of Kunti, such pleasures have a beginning and an end, and so the wise man does not delight in them."
 >
-> --- Bhagavad-gītā 16.19
+> --- Bhagavad-gita 5.22
 
-This isn't punishment. It's consequence.
+Envy is precisely this: a source of misery born from contact with the material senses. Malik sees Sophie's title, her office, her recognition, and the contact between his senses and those external markers produces anguish. An intelligent person recognizes that these pleasures have a beginning and an end. Sophie's promotion will age. The title will fade. The recognition will be forgotten. Everything Malik envies is temporary, and delighting in temporary things, whether possessing them or resenting others for possessing them, leads only to suffering.
 
-Envy traps you in a cycle of comparison, resentment, and suffering. It makes you incapable of joy—yours or anyone else's. It turns every success around you into evidence of your own failure.
+But why does envy take such deep root? Because it is the opposite of the qualities Krishna holds dear:
 
-That's not divine retribution. That's just what envy does. It creates hell. Right here.
-
-But why? Why do we envy?
-
-Kṛṣṇa gives the answer:
-
-> ``One who is not envious but who is a kind friend to all living entities, who does not think himself a proprietor, who is free from false ego... such a person is very dear to Me.''
+> "One who is not envious but who is a kind friend to all living entities, who does not think himself a proprietor, who is free from false ego and equal both in happiness and distress, who is always satisfied and engaged in devotional service with determination and whose mind and intelligence are in agreement with Me-he is very dear to Me."
 >
-> --- Bhagavad-gītā 12.13-14
+> --- Bhagavad-gita 12.13-14
 
 Notice the connection: Envy arises from false ego. From the belief that you own your achievements. That you deserve recognition. That your worth is determined by external validation.
 
-When you think you're the proprietor—the cause of your success—then someone else's success feels like theft. Like they took what was yours.
+When you think you are the proprietor of your success, then someone else's success feels like theft. Like they took what was yours.
 
-But the Gītā teaches: You're not the proprietor. You're the instrument. Your talents, opportunities, circumstances—all given. Your role is to use them skillfully, not to claim ownership.
+But the Gita teaches: You are not the proprietor. You are the instrument. Your talents, opportunities, circumstances, all given. Your role is to use them skillfully, not to claim ownership.
 
-And when you release that false sense of ownership, envy loses its grip.
+And Krishna warns clearly about what happens when envy is left unchecked:
 
-Because if you're not the cause of your success, then someone else's success isn't your failure. It's just... their path.
+> "Those who are envious and mischievous, who are the lowest among men, are cast by Me into the ocean of material existence, into various demoniac species of life."
+>
+> --- Bhagavad-gita 16.19
 
-## Living the Teaching: Releasing Comparison
+This is not punishment. It is consequence. Envy traps you in a cycle of comparison, resentment, and suffering. It makes you incapable of joy, yours or anyone else's. It turns every success around you into evidence of your own failure.
+
+But liberation is possible. And it comes through a surprising door:
+
+> "And one who listens with faith and without envy becomes free from sinful reaction and attains to the planets where the pious dwell."
+>
+> --- Bhagavad-gita 18.71
+
+Without envy. That is the key. When you can hear of another's good fortune, another's wisdom, another's achievement, and feel not resentment but openness, you become free. Faith without envy is the exit from the burning house.
+
+## Living the Teaching
 
 So what does Malik do?
 
-Pretend he's not envious? Suppress the feeling? Force himself to be happy for Sophie?
+Pretend he is not envious? Suppress the feeling? Force himself to be happy for Sophie?
 
-No.
-
-The Gītā doesn't teach repression. It teaches transformation.
-
-Here's the practice:
+No. The Gita does not teach repression. It teaches transformation.
 
 ### Practice Box
 
 **The Envy Transmutation Practice**
 
-**1. Name the feeling honestly.**
-Don't pretend you're not envious. Don't spiritually bypass with ``I'm happy for them.'' Admit it: ``I feel envy. I resent their success.'' Honesty is the first step.
+**1. Name the feeling honestly.** Do not pretend you are not envious. Do not spiritually bypass with "I'm happy for them." Admit it: "I feel envy. I resent their success." Honesty is the first step.
 
-**2. Trace it to false ego.**
-Ask: ``What am I believing about myself that makes their success feel like my failure?'' Usually it's: ``I am the cause of my achievements. I deserve recognition.''
+**2. Recognize the temporary nature of what you envy.** The promotion, the title, the recognition: all of it has a beginning and an end. The wise person does not delight in temporary pleasures, and does not suffer over another's temporary gains.
 
-**3. Remember: You're the instrument, not the proprietor.**
-Your skills, opportunities, results—all given. You did the work, yes. But countless factors beyond your control made it possible. Release ownership.
+**3. Trace it to false ego.** Ask: "What am I believing about myself that makes their success feel like my failure?" Usually it is: "I am the proprietor of my achievements. I deserve recognition." Release ownership. You are the instrument, not the cause.
 
-**4. Wish them well—authentically.**
-Not fake positivity. Real recognition: ``Their success doesn't diminish mine. Their path is theirs. Mine is mine.'' Let them have their joy without making it about you.
+**4. Practice listening without envy.** The next time someone shares good news, notice your reaction. Can you hear it with faith and openness? Not fake positivity, but genuine freedom from resentment? Start there. That single shift changes everything.
 
-This is brutal work. Because envy feels justified. Righteous. Like you're defending your worth.
-
-But you're not. You're destroying it.
-
-Every moment you spend resenting someone else's success is a moment you're not building your own. Every ounce of energy you give to envy is energy stolen from your actual work.
-
-The Gītā offers liberation: Let go of being the proprietor. Do your duty. Release attachment to recognition.
-
-Then envy has nothing to feed on.
-
-## The Way Forward: The Honest Acknowledgment
+## The Way Forward
 
 Three weeks after Sophie's promotion, Malik sends her a message:
 
-*Can we grab coffee?*
+Can we grab coffee?
 
-She responds immediately: *Of course. Tomorrow?*
+She responds immediately: Of course. Tomorrow?
 
-They meet at the café near the office. It's awkward at first—Malik can feel the distance that's grown between them.
+They meet at the cafe near the office. It is awkward at first. Malik can feel the distance that has grown between them.
 
 Sophie breaks the silence. "I know you applied for the position too."
 
 Malik nods.
 
-"I'm sorry," she says. "I know that's weird to say. It's not like I took it from you. But I know you wanted it. And I'm sorry it feels... complicated."
+"I'm sorry," she says. "I know that's weird to say. It's not like I took it from you. But I know you wanted it."
 
 Malik takes a breath. "I've been envious. I want to be honest about that. I've spent the last three weeks resenting you. Telling myself you didn't deserve it as much as I did. And I hate that about myself."
 
-Sophie looks surprised. Then sad. "I didn't deserve it more than you. You know that, right? You would have been great in that role."
+Sophie looks surprised. Then sad. "I didn't deserve it more than you. You know that, right?"
 
-"Maybe," Malik says. "But that's not the point. The point is... I made your success about me. Like it was something you took from me instead of something you earned. And that's not fair to you."
+"Maybe," Malik says. "But that's not the point. The point is I made your success about me. Like it was something you took from me instead of something you earned."
 
-"Thank you for saying that."
+He pauses. "And I realized something. Everything I'm envious of, the title, the office, the recognition, it all has an expiration date. It's temporary. And I was making myself miserable over temporary things."
 
-"I don't know if I can just flip a switch and be happy for you. But I can stop making it about me. I can acknowledge that your path is yours and mine is mine. And they're not in competition."
+"So what changed?"
 
-Sophie reaches across the table, touches his hand briefly. "For what it's worth, I'll probably need your advice constantly. You know this company better than anyone."
+"I stopped thinking of myself as the owner of my results. I did the work. I showed up. But the outcome was never mine to control. And it was never mine to resent you for."
 
-Malik smiles—for the first time in weeks, genuinely. "I'll send you my consulting rates."
+Sophie reaches across the table, touches his hand briefly. "For what it's worth, I'll probably need your advice constantly."
+
+Malik smiles, for the first time in weeks, genuinely. "I'll send you my consulting rates."
 
 They both laugh. And something eases.
 
-The envy doesn't disappear completely. It's still there, a dull ache when he sees her name on leadership emails.
+The envy does not disappear completely. It is still there, a dull ache when he sees her name on leadership emails. But it is not consuming him anymore.
 
-But it's not consuming him anymore.
-
-Because he stopped feeding it. Stopped telling himself the story that her gain was his loss. Stopped clinging to the belief that he owned his achievements and therefore deserved recognition.
+Because he stopped feeding it. Stopped telling himself the story that her gain was his loss. Stopped clinging to the belief that he owned his achievements and therefore deserved specific recognition.
 
 He did the work. He used his skills. He performed his duty.
 
-The results? Those were never his to control.
+The results were never his to control. And he learned to listen to the news of another's success without envy.
 
-And in releasing that—in letting go of being the proprietor—he found something better than the promotion.
-
-Freedom.
+In that, the Gita teaches, is freedom.
 
 ## Reflection
 
 - Whose success triggers envy in you? What story are you telling yourself about why their achievement diminishes yours?
-- Where are you acting as if you own your accomplishments—as if you're the sole cause and therefore entitled to specific results? Can you see the countless factors beyond your control?
-- What would change if you genuinely believed that someone else's success has nothing to do with your worth? Could you let them have their joy without making it about you?
+- Can you see that the things you envy, titles, recognition, status, all have a beginning and an end? What would change if you stopped delighting in temporary things?
+- What would it mean to listen with faith and without envy? Not to suppress resentment, but to genuinely release it? What freedom might that bring?
 
 ---
 

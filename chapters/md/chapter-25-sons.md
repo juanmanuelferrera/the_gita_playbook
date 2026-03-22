@@ -12,7 +12,7 @@ Robert wants to say something. Something meaningful. Fatherly. The kind of thing
 
 But the words won't come.
 
-Because what he's really feeling—beneath the pride, beneath the excitement for his son's future—is grief.
+Because what he's really feeling -- beneath the pride, beneath the excitement for his son's future -- is grief.
 
 Ethan doesn't need him anymore. Not in the way he used to. No more help with homework. No more basketball in the driveway. No more late-night talks about school drama.
 
@@ -40,7 +40,7 @@ Fathers and sons carry a particular weight.
 
 Society tells boys: Don't cry. Be strong. Provide. Protect. Become a man.
 
-And fathers—especially fathers who were raised the same way—often don't know how to give their sons what they never received themselves: Permission to be human. Vulnerable. Uncertain.
+And fathers -- especially fathers who were raised the same way -- often don't know how to give their sons what they never received themselves: Permission to be human. Vulnerable. Uncertain.
 
 Robert raised Ethan the way he was raised: Fix problems. Be tough. Don't show weakness.
 
@@ -54,39 +54,47 @@ Robert doesn't know. And the not knowing terrifies him.
 
 Because he can't redo those years. Can't go back and be more present. Can't rewrite the moments he prioritized work over connection.
 
-The Gītā speaks to this—not about parenting specifically, but about duty and the choices we make when we think we're doing the right thing.
+The Gita speaks to this -- not about parenting specifically, but about fatherhood, equality, and the painful wisdom of letting go.
 
-## The Gītā Speaks: The Greater Duty
+## The Gita Speaks: The Father of All
 
-When Arjuna faces his crisis on the battlefield, part of his struggle is about legacy. About what kind of man he'll be remembered as. About what he owes to those who come after.
+When Arjuna stands on the battlefield of Kurukshetra, he faces the ultimate crisis of relationship. Family on both sides. Teachers. Friends. Sons.
 
-And Kṛṣṇa tells him something critical:
+And in the middle of that crisis, Krishna reveals something about the nature of fatherhood itself:
 
-> ``It is far better to perform one's own prescribed duty, even though it may be of lesser quality, than to do another's duty perfectly. Destruction in the course of performing one's own duty is better than engaging in another's duties, for to follow another's path is dangerous.''
+> "I am the father of this universe, the mother, the support, and the grandsire."
 >
-> --- Bhagavad-gītā 3.35
+> -- Bhagavad-gita 9.17
 
-Robert performed the duty society told him was his: Provide financially. Build security. Give Ethan material opportunities.
+The Supreme Lord claims fatherhood -- not as ownership, but as origin. The father who gives life does not thereby own the life he gives. He supports. He sustains. But the soul he brought into the world walks its own path.
 
-But was that his actual /dharma/ as a father? Or was it someone else's definition?
+Robert feels the weight of this. He wants to hold on. Wants to shape Ethan into someone specific. But fatherhood, at its deepest, is an act of giving -- not possessing.
 
-The greater duty—the one Robert is only now seeing—might have been simpler: Be present. Listen. Let Ethan see his father's humanity, not just his strength.
+And then Krishna speaks about what real wisdom looks like in the life of a householder:
 
-Show him that being a man doesn't mean being invulnerable. It means being real.
-
-And then Kṛṣṇa says this:
-
-> ``You have a right to perform your prescribed duty, but you are not entitled to the fruits of action.''
+> "The perception of the evil of birth, death, old age and disease; nonattachment to children, wife, home and the rest, and evenmindedness amid pleasant and unpleasant events."
 >
-> --- Bhagavad-gītā 2.47
+> -- Bhagavad-gita 13.9
 
-Robert can't control who Ethan becomes. Can't guarantee his son will turn out "right." Can't fix the past or ensure the future.
+Nonattachment to children. Not indifference -- nonattachment. The distinction matters.
 
-All he can do is perform his duty now—the duty of being honest. Of showing up. Of saying what needs to be said before his son leaves.
+Indifference says: I don't care what happens to you.
 
-Not to change the outcome. But because it's the right thing to do.
+Nonattachment says: I love you completely, but I will not make your life about my needs. I will not cling to who you were or demand you become who I want. I will let you be.
 
-## Living the Teaching: The Honest Conversation
+This is the hardest practice a father will ever face. Because every instinct screams: Hold on. Protect. Control.
+
+But the Gita says: Release. Trust. Let the soul walk.
+
+And there is this -- the recognition that love, at its highest, sees no division:
+
+> "He is a perfect yogi who, by comparison to his own self, sees the true equality of all beings, both in their happiness and distress, O Arjuna!"
+>
+> -- Bhagavad-gita 6.32
+
+Robert's pain is Ethan's pain. Ethan's joy is Robert's joy. Not because they share blood -- but because the soul in one is no different from the soul in the other. A father who grasps this stops trying to mold his son and starts trying to see him.
+
+## Living the Teaching
 
 So what does Robert do?
 
@@ -94,31 +102,23 @@ Pretend everything's fine? Tell himself Ethan turned out great so it all worked 
 
 No.
 
-Here's the practice:
-
 ### Practice Box
 
 **The Father-Son Truth Practice**
 
 **1. Acknowledge what you missed.**
-Don't defend your choices. Don't justify. Just admit: ``I wasn't there as much as I should have been. I prioritized the wrong things sometimes.''
+Don't defend your choices. Don't justify. Just admit: "I wasn't there as much as I should have been. I prioritized the wrong things sometimes."
 
-**2. Tell him what you see in him.**
-Not what you want him to be. What he actually is. The qualities you admire. The person he's becoming. Let him know he's seen.
+**2. See the soul, not the projection.**
+Your son is not your second chance. Not your legacy. Not a reflection of your success or failure. He is an eternal being with his own path. Can you see him -- actually see him -- without the filter of what you wanted him to be?
 
 **3. Give him permission to be human.**
-Tell him: ``You don't have to have it all figured out. You don't have to be strong all the time. It's okay to struggle.'' Break the cycle of stoic silence.
+Tell him: "You don't have to have it all figured out. You don't have to be strong all the time. It's okay to struggle." Break the cycle of stoic silence.
 
 **4. Release control of who he becomes.**
-Your job was to guide him this far. Now it's his path. Trust that—even with your mistakes—you gave him what he needed to walk it.
+Your job was to guide him this far. Now it's his path. Trust that -- even with your mistakes -- you gave him what he needed to walk it.
 
-This is terrifying. Because it means admitting you weren't perfect. Weren't the father you imagined you'd be.
-
-But that honesty—that vulnerability—might be the greatest gift you can give.
-
-Because it shows your son that being a man means being real. Not perfect.
-
-## The Way Forward: Before He Leaves
+## The Way Forward
 
 The night before Ethan leaves, Robert knocks on his door.
 
@@ -134,7 +134,7 @@ Ethan waits.
 
 "I wasn't there as much as I should have been. Growing up, I mean. I told myself I was working hard to give you opportunities. And I was. But I also used work as an excuse to avoid... being present. Really present."
 
-Ethan shifts uncomfortably. "Dad, you don't have to—"
+Ethan shifts uncomfortably. "Dad, you don't have to --"
 
 "Let me finish." Robert's voice cracks slightly. "I'm proud of the man you're becoming. You're kind. Thoughtful. Braver than I was at your age. And I want you to know something: You don't have to be perfect. You don't have to have everything figured out. And you don't have to do it all alone."
 
@@ -154,7 +154,7 @@ Robert feels tears threatening. "I worried I'd messed it all up."
 
 "Did you ever feel like you didn't know what you were doing? As a dad?"
 
-Robert laughs—broken, relieved. "Every single day."
+Robert laughs -- broken, relieved. "Every single day."
 
 "Really?"
 
@@ -188,17 +188,15 @@ Because he did his duty. Not perfectly. Not the way he imagined.
 
 But honestly. Presently. As himself.
 
-And that—the Gītā teaches—is all any father can do.
+And that -- the Gita teaches -- is all any father can do.
 
 The rest is his son's path. And Robert has to trust it.
 
 ## Reflection
 
 - If you're a father, what did you prioritize in raising your son? Was it your actual duty, or society's definition? What would change if you focused on presence over perfection?
-- What did your father give you—or fail to give you? Can you offer your son (or the young men in your life) what you wish you'd received?
+- What did your father give you -- or fail to give you? Can you offer your son (or the young men in your life) what you wish you'd received?
 - Are you trying to control who your son becomes, or trusting him to find his own path? What would it mean to release that control while still offering guidance?
-
-% Chapter 26: Brothers
 
 ---
 
