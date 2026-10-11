@@ -1,3 +1,9 @@
+---
+id: d6288e40-be20-49e8-91ad-fd3780890e61
+sortOrder: 1363
+created: 2026-02-23T20:47:01.995Z
+modified: 2026-02-23T20:47:01.995Z
+---
 # Chapter 6: Losing Hope
 
 ## Before: When Hope Dies Quietly

@@ -1,3 +1,9 @@
+---
+id: 7763e7ab-8422-46e5-9b94-2b54a724fee8
+sortOrder: 1371
+created: 2026-02-23T20:47:02.027Z
+modified: 2026-02-23T20:47:02.027Z
+---
 # Chapter 8: Self Esteem
 
 ## The Scoreboard

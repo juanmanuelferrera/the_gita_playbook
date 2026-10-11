@@ -1,3 +1,9 @@
+---
+id: bb98e395-2717-4414-b04d-a83c07db6657
+sortOrder: 8
+created: 2026-02-15T20:48:23.219Z
+modified: 2026-02-15T20:48:23.219Z
+---
 # Situational Gita Article Generator - Complete Guide
 
 ## How It Works & How to Take Full Advantage

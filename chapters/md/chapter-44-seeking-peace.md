@@ -1,3 +1,9 @@
+---
+id: aeb568e6-e32a-4c77-9ad3-d0746d97f98d
+sortOrder: 1357
+created: 2026-02-23T20:47:01.968Z
+modified: 2026-02-23T20:47:01.968Z
+---
 # Chapter 44: Seeking Peace
 
 ## The Retreat

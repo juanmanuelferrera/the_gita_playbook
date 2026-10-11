@@ -1,3 +1,9 @@
+---
+id: f8c221bc-a656-4bcf-88ae-a17f8ba3b23c
+sortOrder: 1379
+created: 2026-02-23T20:47:02.067Z
+modified: 2026-02-23T20:47:02.067Z
+---
 # Chapter 62: Vital Cycle
 
 ## Opening Story

@@ -1,3 +1,9 @@
+---
+id: a013bbb5-35f3-4cb6-bd46-b3dca2b51e9c
+sortOrder: 1392
+created: 2026-02-23T20:47:02.172Z
+modified: 2026-02-23T20:47:02.172Z
+---
 # Chapter 13: Temptation
 
 ## The Moment Before

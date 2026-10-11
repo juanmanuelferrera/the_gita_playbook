@@ -1,3 +1,9 @@
+---
+id: 07d301b7-a661-47ca-b64c-46425eff095e
+sortOrder: 1356
+created: 2026-02-23T20:47:01.962Z
+modified: 2026-02-23T20:47:01.962Z
+---
 # Chapter 30: Teacher
 
 ## The Student Who Won't Learn

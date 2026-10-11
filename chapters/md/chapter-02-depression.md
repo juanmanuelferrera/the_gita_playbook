@@ -1,3 +1,9 @@
+---
+id: 3eaac41a-1cf6-4119-bf61-5b58c75d451c
+sortOrder: 1383
+created: 2026-02-23T20:47:02.105Z
+modified: 2026-02-23T20:47:02.105Z
+---
 # Chapter 2: Depression
 
 ## The Day She Stopped Fighting

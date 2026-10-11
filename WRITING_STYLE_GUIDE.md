@@ -1,3 +1,9 @@
+---
+id: ecce300d-0570-4a11-85fb-31cc10600168
+sortOrder: 10
+created: 2026-02-15T20:48:23.222Z
+modified: 2026-02-15T20:48:23.222Z
+---
 # Light of Dharma Writing & Style Guide
 
 ## Mission & Voice

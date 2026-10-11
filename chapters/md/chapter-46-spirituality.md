@@ -1,3 +1,9 @@
+---
+id: 6ec723ca-679e-41e7-8a3f-c2c60acf64ff
+sortOrder: 1351
+created: 2026-02-23T20:47:01.933Z
+modified: 2026-02-23T20:47:01.933Z
+---
 # Chapter 46: Spirituality
 
 ## Sunday Morning

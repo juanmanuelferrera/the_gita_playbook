@@ -1,3 +1,9 @@
+---
+id: 1956943f-5641-4537-adbb-bd2352a6fd74
+sortOrder: 1350
+created: 2026-02-23T20:47:01.926Z
+modified: 2026-02-23T20:47:01.926Z
+---
 # Chapter 35: Decisions
 
 ## Opening Story

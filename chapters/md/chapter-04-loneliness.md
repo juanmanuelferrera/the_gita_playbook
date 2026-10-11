@@ -1,3 +1,9 @@
+---
+id: dc697763-f4d5-4a95-8749-eb5f9b1bf560
+sortOrder: 1362
+created: 2026-02-23T20:47:01.992Z
+modified: 2026-02-23T20:47:01.992Z
+---
 # Chapter 4: Loneliness
 
 ## Letter to No One

@@ -1,3 +1,9 @@
+---
+id: 42524cbb-c53c-42fc-b399-9bd670fcde3b
+sortOrder: 1340
+created: 2026-02-23T20:47:01.870Z
+modified: 2026-02-23T20:47:01.870Z
+---
 # Chapter 28: Teams
 
 ## The Broken Project

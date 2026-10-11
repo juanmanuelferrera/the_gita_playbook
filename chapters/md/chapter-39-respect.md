@@ -1,3 +1,9 @@
+---
+id: a2a226e0-9c8b-4c51-9c4e-d6cccd0b1229
+sortOrder: 1387
+created: 2026-02-23T20:47:02.137Z
+modified: 2026-02-23T20:47:02.137Z
+---
 # Chapter 39: Respect
 
 ## Opening Story

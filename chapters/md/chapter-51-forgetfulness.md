@@ -1,3 +1,9 @@
+---
+id: 8d6749ee-2b46-4c0e-a315-b88488343dec
+sortOrder: 1347
+created: 2026-02-23T20:47:01.909Z
+modified: 2026-02-23T20:47:01.909Z
+---
 # Chapter 51: Forgetfulness
 
 ## Opening Story

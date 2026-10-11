@@ -1,3 +1,9 @@
+---
+id: 33e032bb-61ba-42b2-abf8-1aa05b047c70
+sortOrder: 1359
+created: 2026-02-23T20:47:01.978Z
+modified: 2026-02-23T20:47:01.978Z
+---
 # Chapter 50: Repression
 
 ## Opening Story

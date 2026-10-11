@@ -1,3 +1,9 @@
+---
+id: 060fec99-6e9a-46a6-a438-3a3a687d555e
+sortOrder: 1384
+created: 2026-02-23T20:47:02.113Z
+modified: 2026-02-23T20:47:02.113Z
+---
 # Chapter 56: Reincarnation
 
 ## Opening Story

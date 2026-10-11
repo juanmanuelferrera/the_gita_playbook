@@ -1,3 +1,9 @@
+---
+id: 089974fc-ca3f-4778-b5ea-9ce8d95fe7ca
+sortOrder: 1364
+created: 2026-02-23T20:47:01.998Z
+modified: 2026-02-23T20:47:01.998Z
+---
 # Chapter 15: Lust
 
 ## The Obsession

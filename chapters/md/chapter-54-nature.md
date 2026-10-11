@@ -1,3 +1,9 @@
+---
+id: 7a3fcd0c-fd97-49ab-a62e-be669f2841c7
+sortOrder: 1370
+created: 2026-02-23T20:47:02.024Z
+modified: 2026-02-23T20:47:02.024Z
+---
 # Chapter 54: Nature
 
 ## Opening Story

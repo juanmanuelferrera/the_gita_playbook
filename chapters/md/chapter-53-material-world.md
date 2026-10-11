@@ -1,3 +1,9 @@
+---
+id: 5ef63008-3cd2-4838-9a14-b1a98e10bd9e
+sortOrder: 1345
+created: 2026-02-23T20:47:01.899Z
+modified: 2026-02-23T20:47:01.899Z
+---
 # Chapter 53: Material World
 
 ## Opening Story

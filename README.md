@@ -1,3 +1,9 @@
+---
+id: 7bf03171-3ad3-434a-807a-466638d554a7
+sortOrder: 11
+created: 2026-02-15T20:48:23.223Z
+modified: 2026-02-15T20:48:23.223Z
+---
 # Situational Gita Article Generator & Book Creator
 
 > Transform ancient Gita wisdom into unique, modern articles with AI-powered variety

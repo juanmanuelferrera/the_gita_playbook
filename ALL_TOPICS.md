@@ -1,3 +1,9 @@
+---
+id: 5cd00547-8fb5-4c7a-bb11-bcdc6a5ee5c9
+sortOrder: 4
+created: 2026-02-15T20:48:23.213Z
+modified: 2026-02-15T20:48:23.213Z
+---
 # Complete List of All 110 Situational Topics
 
 ## Overview

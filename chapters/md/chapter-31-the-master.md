@@ -1,3 +1,9 @@
+---
+id: 803b9028-0e7a-4572-8524-6a650264fdf6
+sortOrder: 1377
+created: 2026-02-23T20:47:02.053Z
+modified: 2026-02-23T20:47:02.053Z
+---
 # Chapter 31: The Master
 
 ## Opening Story

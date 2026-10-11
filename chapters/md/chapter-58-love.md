@@ -1,3 +1,9 @@
+---
+id: a98c2d90-9124-4bbc-a473-f023c3b86fa2
+sortOrder: 1390
+created: 2026-02-23T20:47:02.163Z
+modified: 2026-02-23T20:47:02.163Z
+---
 # Chapter 58: Love
 
 ## Opening Story

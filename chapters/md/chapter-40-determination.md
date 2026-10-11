@@ -1,3 +1,9 @@
+---
+id: 4fab179f-c74d-471c-a749-0bb5f64fece1
+sortOrder: 1338
+created: 2026-02-23T20:47:01.862Z
+modified: 2026-02-23T20:47:01.862Z
+---
 # Chapter 40: Determination
 
 ## Opening Story

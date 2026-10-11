@@ -1,3 +1,9 @@
+---
+id: dab11a27-17c2-4009-9634-f6fadc4714f4
+sortOrder: 5
+created: 2026-02-15T20:48:23.214Z
+modified: 2026-02-15T20:48:23.214Z
+---
 # Complete System Explanation
 
 ## What You've Built & How to Use It

@@ -1,3 +1,9 @@
+---
+id: c0901dbd-f207-4857-945b-25a7e8b23a03
+sortOrder: 1393
+created: 2026-02-23T20:47:02.177Z
+modified: 2026-02-23T20:47:02.177Z
+---
 # Chapter 37: Expectations
 
 ## Opening Story

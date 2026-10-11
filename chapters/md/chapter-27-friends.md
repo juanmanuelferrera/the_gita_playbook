@@ -1,3 +1,9 @@
+---
+id: 2b8a00c8-1532-41b7-b761-f3b42a71a03a
+sortOrder: 1366
+created: 2026-02-23T20:47:02.006Z
+modified: 2026-02-23T20:47:02.006Z
+---
 # Chapter 27: Friends
 
 ## The Unanswered Text

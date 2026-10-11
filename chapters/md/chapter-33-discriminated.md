@@ -1,3 +1,9 @@
+---
+id: 482e4912-6918-4998-ae9f-c0b3c997ea4a
+sortOrder: 1375
+created: 2026-02-23T20:47:02.042Z
+modified: 2026-02-23T20:47:02.042Z
+---
 # Chapter 33: Discriminated
 
 ## Opening Story

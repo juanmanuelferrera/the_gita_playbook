@@ -1,3 +1,9 @@
+---
+id: eb0ffa9f-fdfb-48a8-b483-745c9abeabd9
+sortOrder: 9
+created: 2026-02-15T20:48:23.220Z
+modified: 2026-02-15T20:48:23.220Z
+---
 # Book Title & Subtitle Recommendations
 
 ## 🏆 OFFICIAL TITLE (FINALIZED)

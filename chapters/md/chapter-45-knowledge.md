@@ -1,3 +1,9 @@
+---
+id: 0509b6cb-d700-44ae-b7f4-348740b9089d
+sortOrder: 1386
+created: 2026-02-23T20:47:02.129Z
+modified: 2026-02-23T20:47:02.129Z
+---
 # Chapter 45: Knowledge
 
 ## The Library

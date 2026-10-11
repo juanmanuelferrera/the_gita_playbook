@@ -1,3 +1,9 @@
+---
+id: cfd2d382-0b88-48dc-84c5-f62ca60fb0b1
+sortOrder: 15
+created: 2026-02-15T20:48:23.228Z
+modified: 2026-02-15T20:48:23.228Z
+---
 # DEFINITIVE 6×9 INCH BOOK LAYOUT ANALYSIS (2025)
 
 ## 📏 WHY 6×9 MATTERS

@@ -1,3 +1,9 @@
+---
+id: 130928b9-2e7f-4b2f-ba4b-0b465a4b3606
+sortOrder: 1368
+created: 2026-02-23T20:47:02.016Z
+modified: 2026-02-23T20:47:02.016Z
+---
 # Chapter 14: Greed
 
 ## The Hunger That Never Fills

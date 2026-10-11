@@ -1,3 +1,9 @@
+---
+id: 886fbc76-9f19-4665-a223-d95c1239907a
+sortOrder: 13
+created: 2026-02-15T20:48:23.226Z
+modified: 2026-02-15T20:48:23.226Z
+---
 # Professional Header Styling Explanation
 
 ## 🎨 What Was Changed

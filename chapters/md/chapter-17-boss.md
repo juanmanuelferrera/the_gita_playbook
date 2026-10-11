@@ -1,3 +1,9 @@
+---
+id: 7049774f-5672-41e0-9571-ec3437533483
+sortOrder: 1336
+created: 2026-02-23T20:47:01.853Z
+modified: 2026-02-23T20:47:01.853Z
+---
 # Chapter 17: Boss
 
 ## The Authority You Can't Escape

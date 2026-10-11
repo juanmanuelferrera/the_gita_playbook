@@ -1,3 +1,9 @@
+---
+id: 677bb3ff-e01a-4788-ae06-4ba0189a1689
+sortOrder: 6
+created: 2026-02-15T20:48:23.216Z
+modified: 2026-02-15T20:48:23.216Z
+---
 # Professional Book Structure
 ## Situational Gita: Ancient Solutions to Modern Life Struggles
 

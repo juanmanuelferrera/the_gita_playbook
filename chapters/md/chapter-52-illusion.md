@@ -1,3 +1,9 @@
+---
+id: 45df0836-990d-41f9-aca7-cf39f01e1a5e
+sortOrder: 1391
+created: 2026-02-23T20:47:02.168Z
+modified: 2026-02-23T20:47:02.168Z
+---
 # Chapter 52: Illusion
 
 ## Opening Story

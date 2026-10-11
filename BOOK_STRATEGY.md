@@ -1,3 +1,9 @@
+---
+id: c42ec08e-b94d-4f20-9b2b-8f4b871da904
+sortOrder: 14
+created: 2026-02-15T20:48:23.227Z
+modified: 2026-02-15T20:48:23.227Z
+---
 # Best-Seller Book Strategy: "Situational Gita"
 ## Ancient Solutions to Modern Life Struggles
 

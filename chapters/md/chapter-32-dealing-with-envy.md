@@ -1,3 +1,9 @@
+---
+id: c6a9c594-d0a9-4e03-a50a-5fc0ec9ad5df
+sortOrder: 1343
+created: 2026-02-23T20:47:01.885Z
+modified: 2026-02-23T20:47:01.885Z
+---
 # Chapter 32: Dealing with Envy
 
 ## Opening Story

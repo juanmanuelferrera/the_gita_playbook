@@ -1,3 +1,9 @@
+---
+id: e6489592-881d-44c8-8ec2-876224fbd272
+sortOrder: 1381
+created: 2026-02-23T20:47:02.090Z
+modified: 2026-02-23T20:47:02.090Z
+---
 # Chapter 25: Sons
 
 ## The Man He's Becoming

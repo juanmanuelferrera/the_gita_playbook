@@ -1,3 +1,9 @@
+---
+id: 412fa7ac-7e71-4216-b0f8-4115ece9cd3e
+sortOrder: 1354
+created: 2026-02-23T20:47:01.951Z
+modified: 2026-02-23T20:47:01.951Z
+---
 # Chapter 11: Sorrow and Regret
 
 ## The Unchangeable Past

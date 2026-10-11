@@ -1,3 +1,9 @@
+---
+id: c2047f6b-bdf2-42f4-be23-ad6b9df0ad82
+sortOrder: 1389
+created: 2026-02-23T20:47:02.153Z
+modified: 2026-02-23T20:47:02.153Z
+---
 # Chapter 36: Responsibility
 
 ## Opening Story

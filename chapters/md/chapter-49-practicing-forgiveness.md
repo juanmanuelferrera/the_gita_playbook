@@ -1,3 +1,9 @@
+---
+id: 3ceb5255-d1c4-42e6-8fc6-35e9b7e0f17f
+sortOrder: 1369
+created: 2026-02-23T20:47:02.021Z
+modified: 2026-02-23T20:47:02.021Z
+---
 # Chapter 49: Practicing Forgiveness
 
 ## Opening Story

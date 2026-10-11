@@ -1,3 +1,9 @@
+---
+id: 748834f8-e971-4103-875f-f74617b8c2c3
+sortOrder: 1378
+created: 2026-02-23T20:47:02.063Z
+modified: 2026-02-23T20:47:02.063Z
+---
 # Chapter 5: Confusion
 
 ## The Paralysis of Choice

@@ -1,3 +1,9 @@
+---
+id: 04e5a65f-837a-49a8-be71-9d5531778639
+sortOrder: 1365
+created: 2026-02-23T20:47:02.002Z
+modified: 2026-02-23T20:47:02.002Z
+---
 # Chapter 47: Relation with God
 
 ## 3 AM

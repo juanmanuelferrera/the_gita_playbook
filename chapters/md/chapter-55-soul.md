@@ -1,3 +1,9 @@
+---
+id: 5a2b5cf8-c7be-4682-a47b-f74d817ddfac
+sortOrder: 1374
+created: 2026-02-23T20:47:02.038Z
+modified: 2026-02-23T20:47:02.038Z
+---
 # Chapter 55: Soul
 
 ## Opening Story

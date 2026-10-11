@@ -1,3 +1,9 @@
+---
+id: 61b5da74-7506-4c3b-aa05-35f8c265934b
+sortOrder: 1355
+created: 2026-02-23T20:47:01.956Z
+modified: 2026-02-23T20:47:01.956Z
+---
 # Chapter 26: Brothers
 
 ## The Old Rivalry

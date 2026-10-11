@@ -1,3 +1,9 @@
+---
+id: 880b216f-02d1-4170-8940-6bc1b3127ccd
+sortOrder: 1342
+created: 2026-02-23T20:47:01.881Z
+modified: 2026-02-23T20:47:01.881Z
+---
 # Chapter 9: Pride
 
 ## The View From the Top

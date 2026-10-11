@@ -1,3 +1,9 @@
+---
+id: f6aad6b4-b4f2-44e3-bce7-1585873871e0
+sortOrder: 1334
+created: 2026-02-23T20:47:01.844Z
+modified: 2026-02-23T20:47:01.844Z
+---
 # Chapter 61: Death of a Loved One
 
 ## Opening Story

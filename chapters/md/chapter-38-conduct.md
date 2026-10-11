@@ -1,3 +1,9 @@
+---
+id: d67749e1-7b2e-4316-b2f3-b5818a644969
+sortOrder: 1341
+created: 2026-02-23T20:47:01.876Z
+modified: 2026-02-23T20:47:01.876Z
+---
 # Chapter 38: Conduct
 
 ## Opening Story

@@ -1,3 +1,9 @@
+---
+id: 16412fce-14cd-4d86-9d78-6bafe6804ce5
+sortOrder: 1367
+created: 2026-02-23T20:47:02.012Z
+modified: 2026-02-23T20:47:02.012Z
+---
 # Chapter 12: Uncontrolled Mind
 
 ## The Runaway

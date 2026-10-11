@@ -1,3 +1,9 @@
+---
+id: 8c1002c1-0804-4320-8490-645aa3c8afa7
+sortOrder: 1385
+created: 2026-02-23T20:47:02.118Z
+modified: 2026-02-23T20:47:02.118Z
+---
 # Chapter 16: Work
 
 ## The 9-to-5 Trap

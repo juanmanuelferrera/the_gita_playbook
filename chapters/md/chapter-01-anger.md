@@ -1,3 +1,9 @@
+---
+id: b656c02b-e3cc-4812-a519-10efc1badc4c
+sortOrder: 1361
+created: 2026-02-23T20:47:01.988Z
+modified: 2026-02-23T20:47:01.988Z
+---
 # Chapter 1: Anger
 
 ## The Breaking Point

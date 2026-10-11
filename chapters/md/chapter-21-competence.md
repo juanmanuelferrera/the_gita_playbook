@@ -1,3 +1,9 @@
+---
+id: 5d315afe-bb1b-4344-9c71-fb67dde5b3c5
+sortOrder: 1376
+created: 2026-02-23T20:47:02.048Z
+modified: 2026-02-23T20:47:02.048Z
+---
 # Chapter 21: Competence
 
 ## The Fraud at the Table

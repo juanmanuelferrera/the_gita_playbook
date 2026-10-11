@@ -1,3 +1,9 @@
+---
+id: 2914ccab-28f8-4eb5-9fef-3205ee70420e
+sortOrder: 1373
+created: 2026-02-23T20:47:02.034Z
+modified: 2026-02-23T20:47:02.034Z
+---
 # Chapter 3: Fear
 
 ## The Question He Can't Ask

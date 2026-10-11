@@ -1,3 +1,9 @@
+---
+id: a4eb85e4-e99e-4fbd-bc6b-e057a5752a14
+sortOrder: 1335
+created: 2026-02-23T20:47:01.849Z
+modified: 2026-02-23T20:47:01.849Z
+---
 # Chapter 10: Feeling Shameful
 
 ## What They Don't Know

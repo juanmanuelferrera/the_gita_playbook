@@ -1,3 +1,9 @@
+---
+id: 94034e63-f3cd-450b-87f7-5f1de71cc177
+sortOrder: 1332
+created: 2026-02-23T20:47:01.824Z
+modified: 2026-02-23T20:47:01.824Z
+---
 # Chapter 7: Existential Crisis
 
 ## The Question That Won't Let Go

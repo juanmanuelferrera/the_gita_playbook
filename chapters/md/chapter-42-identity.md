@@ -1,3 +1,9 @@
+---
+id: 7168bfb9-67e4-4844-8f5e-9e12945343ce
+sortOrder: 1346
+created: 2026-02-23T20:47:01.904Z
+modified: 2026-02-23T20:47:01.904Z
+---
 # Chapter 42: Identity
 
 ## Opening Story

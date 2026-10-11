@@ -1,3 +1,9 @@
+---
+id: 59184381-fcb8-4421-9a19-7a9ca681ccf5
+sortOrder: 1380
+created: 2026-02-23T20:47:02.082Z
+modified: 2026-02-23T20:47:02.082Z
+---
 # Chapter 29: Leader
 
 ## The Weight of the Decision

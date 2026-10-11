@@ -1,3 +1,9 @@
+---
+id: 7889ebbc-7490-4caf-b714-ff0f4d14a7cd
+sortOrder: 1382
+created: 2026-02-23T20:47:02.099Z
+modified: 2026-02-23T20:47:02.099Z
+---
 # Chapter 34: Discovering Meaning
 
 ## Opening Story

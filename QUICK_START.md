@@ -1,3 +1,9 @@
+---
+id: e28d08bd-dfce-4b21-bd24-2b48831b3821
+sortOrder: 17
+created: 2026-02-15T20:48:23.230Z
+modified: 2026-02-15T20:48:23.230Z
+---
 # Quick Start Guide - Situational Gita Article Generator
 
 ## The Easiest Way to Use This System

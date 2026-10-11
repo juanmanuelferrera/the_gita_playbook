@@ -1,3 +1,9 @@
+---
+id: e938e324-bac5-4e9a-8109-b8fbea7ae342
+sortOrder: 1388
+created: 2026-02-23T20:47:02.146Z
+modified: 2026-02-23T20:47:02.146Z
+---
 # Chapter 23: Family
 
 ## The Sunday Call

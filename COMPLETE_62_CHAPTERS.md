@@ -1,3 +1,9 @@
+---
+id: 5872827a-7c52-4736-bfda-de33ea93a7ff
+sortOrder: 3
+created: 2026-02-15T20:48:23.211Z
+modified: 2026-02-15T20:48:23.211Z
+---
 # Complete Book Structure: All 62 Life Themes
 
 ## 📚 SITUATIONAL GITA: Ancient Solutions to Modern Life Struggles

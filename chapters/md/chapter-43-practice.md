@@ -1,3 +1,9 @@
+---
+id: 5ac003b3-63e9-4c9c-9706-db92ba185d85
+sortOrder: 1339
+created: 2026-02-23T20:47:01.866Z
+modified: 2026-02-23T20:47:01.866Z
+---
 # Chapter 43: Practice
 
 ## Day One

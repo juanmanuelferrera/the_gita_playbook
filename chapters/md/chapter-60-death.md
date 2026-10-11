@@ -1,3 +1,9 @@
+---
+id: cde9eaa7-d098-4d30-a390-a4a092e84e89
+sortOrder: 1358
+created: 2026-02-23T20:47:01.973Z
+modified: 2026-02-23T20:47:01.973Z
+---
 # Chapter 60: Death
 
 ## Opening Story

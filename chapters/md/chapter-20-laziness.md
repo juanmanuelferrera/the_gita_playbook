@@ -1,3 +1,9 @@
+---
+id: 8d003f60-eb91-4a0f-a9a7-a7b3d0a1275d
+sortOrder: 1352
+created: 2026-02-23T20:47:01.941Z
+modified: 2026-02-23T20:47:01.941Z
+---
 # Chapter 20: Laziness
 
 ## Tomorrow Never Comes

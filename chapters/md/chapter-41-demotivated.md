@@ -1,3 +1,9 @@
+---
+id: 188dd7d2-68ae-4155-ad86-7ac28db2bcaf
+sortOrder: 1348
+created: 2026-02-23T20:47:01.913Z
+modified: 2026-02-23T20:47:01.913Z
+---
 # Chapter 41: Demotivated
 
 ## Opening Story

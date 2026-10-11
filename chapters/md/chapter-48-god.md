@@ -1,3 +1,9 @@
+---
+id: 701285dc-642c-457e-9474-b9d0178fe3ba
+sortOrder: 1337
+created: 2026-02-23T20:47:01.859Z
+modified: 2026-02-23T20:47:01.859Z
+---
 # Chapter 48: God
 
 ## The Question

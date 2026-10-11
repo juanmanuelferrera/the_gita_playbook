@@ -1,3 +1,9 @@
+---
+id: cbb92245-8e79-4a79-b87f-3940b165d634
+sortOrder: 1353
+created: 2026-02-23T20:47:01.946Z
+modified: 2026-02-23T20:47:01.946Z
+---
 # Chapter 57: Life Cycle
 
 ## Opening Story

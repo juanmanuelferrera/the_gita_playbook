@@ -1,3 +1,9 @@
+---
+id: 068de3b0-afe1-4db1-885d-375620dc489f
+sortOrder: 1399
+created: 2026-02-23T20:47:02.198Z
+modified: 2026-02-23T20:47:02.198Z
+---
 # Situational Gita Article Generator
 
 An AI-powered system for creating unique, empathetic articles about Bhagavad Gita teachings for modern life. Each article uses a different narrative structure to avoid formulaic writing.

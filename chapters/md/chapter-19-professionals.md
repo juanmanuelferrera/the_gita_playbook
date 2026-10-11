@@ -1,3 +1,9 @@
+---
+id: e031755f-6a52-42e8-b79d-b8774a9668f9
+sortOrder: 1333
+created: 2026-02-23T20:47:01.839Z
+modified: 2026-02-23T20:47:01.839Z
+---
 # Chapter 19: Professionals
 
 ## The Choice

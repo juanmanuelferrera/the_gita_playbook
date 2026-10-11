@@ -1,3 +1,9 @@
+---
+id: 247e1aec-c76d-4bb9-b6fa-b57e1fb357c8
+sortOrder: 1394
+created: 2026-02-23T20:47:02.182Z
+modified: 2026-02-23T20:47:02.182Z
+---
 *spanish
 # Querido amigo que se siente invisible
 

@@ -1,3 +1,9 @@
+---
+id: 47f80b9b-8d1a-4a68-977a-50b6a144ff90
+sortOrder: 1349
+created: 2026-02-23T20:47:01.920Z
+modified: 2026-02-23T20:47:01.920Z
+---
 # Chapter 18: Ambition
 
 ## The Next Rung

@@ -1,3 +1,9 @@
+---
+id: 6137c8a7-947d-4c60-b95d-489eb4b5db03
+sortOrder: 7
+created: 2026-02-15T20:48:23.218Z
+modified: 2026-02-15T20:48:23.218Z
+---
 # Author Voice & Style Guide
 ## Situational Gita: Synthesis of Bestseller Literary Techniques
 

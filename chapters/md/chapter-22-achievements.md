@@ -1,3 +1,9 @@
+---
+id: 49536ecb-cd41-49f2-8342-e3a5c2ee9440
+sortOrder: 1344
+created: 2026-02-23T20:47:01.892Z
+modified: 2026-02-23T20:47:01.892Z
+---
 # Chapter 22: Achievements
 
 ## The Empty Trophy Case
